@@ -15,6 +15,7 @@
   "bugs": {
     "url" : "https://github.com/EminorBot/forex/issues"
   },
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
