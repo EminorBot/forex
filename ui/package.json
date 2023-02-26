@@ -12,6 +12,9 @@
     "forex"
   ],
   "homepage": "https://github.com/EminorBot/forex",
+  "bugs": {
+    "url" : "https://github.com/EminorBot/forex/issues"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
