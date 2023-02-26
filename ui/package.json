@@ -21,12 +21,17 @@
     "email" : "opensource@wisters.ru",
     "url" : "https://wisters.ru/"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EminorBot/forex.git"
+  },
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
+  "private": true,
   "packageManager": "yarn@3.4.1"
 }
