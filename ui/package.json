@@ -1,6 +1,7 @@
 {
   "name": "forex-ui",
   "version": "1.0.0",
+  "description": "Forex web interface: Homepage, documentation, and more! All in one place.",
   "private": true,
   "scripts": {
     "dev": "next dev",
