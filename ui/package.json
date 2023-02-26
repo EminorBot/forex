@@ -2,6 +2,15 @@
   "name": "forex-ui",
   "version": "1.0.0",
   "description": "Forex web interface: Homepage, documentation, and more! All in one place.",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "react",
+    "nextjs",
+    "wisters",
+    "eminor",
+    "forex"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
