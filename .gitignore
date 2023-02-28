@@ -847,3 +847,18 @@ next-env.d.ts
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Logs
+log
+pnpm-debug.log*
+
+node_modules
+dist-ssr
+*.local
+
+# Editor directories and files
+.idea
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
