@@ -865,3 +865,7 @@ dist-ssr
 
 /cypress/videos/
 /cypress/screenshots/
+
+# Local Netlify folder
+.netlify
+netlify.toml
